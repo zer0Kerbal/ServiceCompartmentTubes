@@ -1,12 +1,12 @@
 {
-	"NAME"		     : "6SServiceCompartmentTubes (6S)",
-	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/6SServiceCompartmentTubes/master/6SServiceCompartmentTubes.version",
-	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/6SServiceCompartmentTubes/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/6SServiceCompartmentTubes/master/changelog.md",
+	"NAME"		     : "ServiceCompartmentTubes (6S)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/ServiceCompartmentTubes.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/ServiceCompartmentTubes/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/changelog.md",
 	"GITHUB" :
 	{
 		"USERNAME"	        : "zer0Kerbal",
-		"REPOSITORY"		: "6SServiceCompartmentTubes",
+		"REPOSITORY"		: "ServiceCompartmentTubes",
 		"ALLOW_PRE_RELEASE" : false
 	},
 	"VERSION" :
@@ -36,7 +36,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :	  "6SServiceCompartmentTubes",
-		"DIRECTORY" : "nothke/6SServiceCompartmentTubes"
+		"NAME" :	  "ServiceCompartmentTubes",
+		"DIRECTORY" : "6S/ServiceCompartmentTubes"
 	}
 }
