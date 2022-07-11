@@ -14,7 +14,7 @@
 
 ## Version 1.3.0.0-release
 
-* Fixed part scaling issues introduced with 0.25. Special thanks to NoMrBond
+* Fixed part scaling issues introduced with 0.25. Special thanks to [NoMrBond](http://forum.kerbalspaceprogram.com/members/71066-NoMrBond)
 * Fixed prices for career. 1m and 2m tubes now cost 150 and 200, respectively
 * Bundled a fresh Firespitter .dll
 
