@@ -6,13 +6,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-6S Service Compartment Tubes (6S)
+6S Service Compartment Tubes (SCT)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# 6S Service Compartment Tubes (6S)
+# 6S Service Compartment Tubes (SCT)
 
 [Home](./index.md)
 
