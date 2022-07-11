@@ -1,14 +1,14 @@
 # Changelog  
 
-| modName    | 6SServiceCompartmentTubes (6S)                                         |
+| modName    | ServiceCompartmentTubes (6S)                                         |
 | ---------- | ---------------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                           |
 | author     | nothke and zer0Kerbal                                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/55581-*/)       |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/6SServiceCompartmentTubes)   |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/6SServiceCompartmentTubes) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/ServiceCompartmentTubes)   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ServiceCompartmentTubes) |
 | spacedock  | (https://spacedock.info/mod/)                                          |
-| ckan       | 6SServiceCompartmentTubes                                              |
+| ckan       | ServiceCompartmentTubes                                              |
 
 ---
 
