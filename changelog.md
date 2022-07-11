@@ -1,6 +1,6 @@
 # Changelog  
 
-| modName    | ServiceCompartmentTubes (6S)                                         |
+| modName    | ServiceCompartmentTubes (SCT)                                         |
 | ---------- | ---------------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                           |
 | author     | nothke and zer0Kerbal                                                  |
