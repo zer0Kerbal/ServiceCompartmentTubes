@@ -1,0 +1,42 @@
+{
+	"NAME"		     : "6SServiceCompartmentTubes (6S)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/6SServiceCompartmentTubes/master/6SServiceCompartmentTubes.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/6SServiceCompartmentTubes/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/6SServiceCompartmentTubes/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"	        : "zer0Kerbal",
+		"REPOSITORY"		: "6SServiceCompartmentTubes",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 3,
+		"PATCH" : 0,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 25,
+		"PATCH" : 0
+	},
+	"KSP_VERSION_MIN" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 23,
+		"PATCH" : 5
+	},
+	"KSP_VERSION_MAX" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 25,
+		"PATCH" : 9999
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "6SServiceCompartmentTubes",
+		"DIRECTORY" : "nothke/6SServiceCompartmentTubes"
+	}
+}
