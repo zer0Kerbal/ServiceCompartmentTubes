@@ -8,7 +8,7 @@
 
 repository:
   # The name of the repository. Changing this will rename the repository
-  name: 6SServiceCompartmentTubes
+  name: ServiceCompartmentTubes
 
   # A short description of the repository that will show up on GitHub
   description: It's a tube.. and a hull... and a cargo bay... and a.. well, just about everything. And it is only 2 PARTS!!! for Kerbal Space Program.
