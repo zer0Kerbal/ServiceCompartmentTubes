@@ -131,7 +131,7 @@ parts, config
 
 ### Credits and Special Thanks
 
-* [nothke][nothke] for creating this glorious parts addon!
+* [Nothke][nothke] for creating this glorious parts addon!
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -266,7 +266,7 @@ parts, config
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
-[nothke]: https://forum.kerbalspaceprogram.com/index.php?/profile/51185-*/ "nothke"
+[nothke]: https://forum.kerbalspaceprogram.com/index.php?/profile/51185-*/ "Nothke"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 ---
