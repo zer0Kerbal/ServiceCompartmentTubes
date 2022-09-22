@@ -17,13 +17,13 @@ It's a tube.. and a hull... and a cargo bay... and a.. well, just about everythi
 
 
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`nothke`][nothke]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`Nothke`][nothke]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/img/HeroLogo_1920x1920.png" alt="Service Compartment Tubes Hero" width="50%" height="50%">
 
-### Introduction by [`nothke`][nothke]
+### Introduction by [`Nothke`][nothke]
 >
 > However I tried making my KSP rockets as smooth looking as possible, it is very hard, you always need to put a tonne of stuff on top of the hull, be it RCS tanks, mechjeb, life support packages, batteries..
 >
@@ -150,7 +150,7 @@ parts, config
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
-#### Original (0) - Author: [`nothke`][nothke]
+#### Original (0) - Author: [`Nothke`][nothke]
 
 > Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
