@@ -28,15 +28,30 @@
   * <6scomp 4.mbm> 1.025mb --> <6scomp_n 7.png> 100kb
   * <6scomp_n 7.mbm> 1.025mb --> <6scomp 4.png> 134kb
 
+### New Parts
+
+* From collaborative forum effort
+  * <sct-sercom-1mT.cfg> v1.0.0.0
+  * <sct-sercom-2mT.cfg> v1.0.0.0
+  * <sct-sercom-3m.cfg> v1.0.0.0
+  * <sct-sercom-3mT.cfg> v1.0.0.0
+
 ### Rename
 
 * File names
   * <SerCom1m.cfg> --> <sct-sercom-1m.cfg>
+  * <SerCom1mT.cfg> --> <sct-sercom-1mT.cfg>
   * <SerCom2m.cfg> --> <sct-sercom-2m.cfg>
+  * <SerCom2mT.cfg> --> <sct-sercom-2mT.cfg>
+  * <SerCom3m.cfg> --> <sct-sercom-3m.cfg>
+  * <SerCom3mT.cfg> --> <sct-sercom-3mT.cfg>
 * Part names
   * SerCom1m --> sct-sercom-1m
+  * SerCom1mT --> sct-sercom-1mT
   * SerCom2m --> sct-sercom-2m
-
+  * SerCom2mT --> sct-sercom-2mT
+  * SerCom3m --> sct-sercom-3m
+  * SerCom3mT --> sct-sercom-3mT
 
 FSanimateGeneric
 ModuleAnimateGeneric
