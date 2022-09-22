@@ -24,6 +24,10 @@
 
 "KSP_VERSION_MAX" :
 
+* Assets
+  * <6scomp 4.mbm> 1.025mb --> <6scomp_n 7.png> 100kb
+  * <6scomp_n 7.mbm> 1.025mb --> <6scomp 4.png> 134kb
+
 ---                                             |
 
 ## Version 1.3.0.0-release - `<Archival>`
