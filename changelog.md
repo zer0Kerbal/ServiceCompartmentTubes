@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | Service Compartment Tubes (null)                                       |
-| ---------- | ---------------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                        |
-| author     | nothke and zer0Kerbal                                                  |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209841-*/)      |
-| github     | (https://github.com/zer0Kerbal/Service Compartment Tubes)              |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Service Compartment Tubes) |
-| spacedock  | (https://spacedock.info/mod/3123)                                      |
-| ckan       | Service-Compartments-6S                                                |
+| modName    | 6S Service Compartment Tubes (SCT)                                |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC-BY-SA-4.0                                                      |
+| author     | Nothke and zer0Kerbal                                             |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209841-*/) |
+| github     | (https://github.com/zer0Kerbal/ServiceCompartmentTubes)           |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ServiceTubes)         |
+| spacedock  | (https://spacedock.info/mod/3123)                                 |
+| ckan       | Service-Compartments-6S                                           |
 
 ## Version 1.3.99.0-adoption - `<Thank you Nothke>`
 
@@ -27,6 +27,15 @@
 * Assets
   * <6scomp 4.mbm> 1.025mb --> <6scomp_n 7.png> 100kb
   * <6scomp_n 7.mbm> 1.025mb --> <6scomp 4.png> 134kb
+
+### Rename
+
+* File names
+  * <SerCom1m.cfg> --> <sct-sercom-1m.cfg>
+  * <SerCom2m.cfg> --> <sct-sercom-2m.cfg>
+* Part names
+  * SerCom1m --> sct-sercom-1m
+  * SerCom2m --> sct-sercom-2m
 
 ---                                             |
 
