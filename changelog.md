@@ -7,8 +7,22 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209841-*/)      |
 | github     | (https://github.com/zer0Kerbal/Service Compartment Tubes)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Service Compartment Tubes) |
-| spacedock  | (https://spacedock.info/mod/SD-ID)                                     |
+| spacedock  | (https://spacedock.info/mod/3123)                                      |
 | ckan       | Service-Compartments-6S                                                |
+
+## Version 1.3.99.0-adoption - `<Thank you Nothke>`
+
+* 04 Dec 2014
+* Released for Kerbal Space Program 0.25
+* Last release by original author
+
+### Adoption by zer0Kerbal
+
+* Update License
+  * [ ] Updated License: CC BY-SA 4.0
+    * was: CC BY-NC-SA 4.0
+
+"KSP_VERSION_MAX" :
 
 ---                                             |
 
