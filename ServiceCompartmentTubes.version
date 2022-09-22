@@ -1,5 +1,5 @@
 {
-	"NAME"		     : "Service Compartment Tubes (6S)",
+	"NAME"		     : "6S Service Compartment Tubes (SCT)",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/ServiceCompartmentTubes.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/ServiceCompartmentTubes/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/changelog.md",
@@ -37,6 +37,6 @@
 	"INSTALL_LOC" :
 	{
 		"NAME" :	  "ServiceCompartmentTubes",
-		"DIRECTORY" : "nothke/ServiceCompartmentTubes"
+		"DIRECTORY" : "Nothke/ServiceCompartmentTubes"
 	}
 }
