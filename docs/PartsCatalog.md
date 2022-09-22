@@ -21,6 +21,8 @@ updated: 15 May 2022 -->
 
 This add-on adds nine (9) resource parts
 
+It's a tube.. and a hull... and a cargo bay... and a.. well, just about everything. And it is only 2 PARTS!!! For Kerbal Space Program.
+
 ---
 
 * Mallet *(Only with Kerbal Inventory System installed)*
