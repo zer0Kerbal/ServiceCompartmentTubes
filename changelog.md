@@ -37,6 +37,14 @@
   * SerCom1m --> sct-sercom-1m
   * SerCom2m --> sct-sercom-2m
 
+
+FSanimateGeneric
+ModuleAnimateGeneric
+
+* localize
+  * [ModuleAnimateGeneric]
+  * [FSanimateGeneric]
+
 ---                                             |
 
 ## Version 1.3.0.0-release - `<Archival>`
