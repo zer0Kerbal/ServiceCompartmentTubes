@@ -12,9 +12,10 @@
 
 ## Version 1.3.99.0-adoption - `<Thank you Nothke>`
 
-* 04 Dec 2014
-* Released for Kerbal Space Program 0.25
-* Last release by original author
+* Released
+  * 07 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
 
 ### Summary 1.3.99.0
 
