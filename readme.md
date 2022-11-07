@@ -264,7 +264,7 @@ parts, config
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
-https://www.youtube.com/@zer0Kerbal
+[youtube]: https://www.youtube.com/@zer0Kerbal
 
 [nothke]: https://forum.kerbalspaceprogram.com/index.php?/profile/51185-*/ "Nothke"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
