@@ -1,5 +1,5 @@
 {
-	"NAME"		     : "6S Service Compartment Tubes (SCT)",
+	"NAME"		     : "6S Service Compartment Tubes (SCT) by Nothke",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/ServiceCompartmentTubes.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/ServiceCompartmentTubes/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/changelog.md",
@@ -20,7 +20,7 @@
 	{
 		"MAJOR" : 1,
 		"MINOR" : 12,
-		"PATCH" : 3
+		"PATCH" : 4
 	},
 	"KSP_VERSION_MIN" :
 	{
