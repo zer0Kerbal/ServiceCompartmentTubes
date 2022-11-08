@@ -25,16 +25,30 @@ It's a tube.. and a hull... and a cargo bay... and a.. well, just about everythi
 
 ---
 
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
+* 1.25m
+  * standard
+  * tall
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/docs/%40thumbs//sct-sercom-1m_icon.png"  alt="1.25m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/docs/%40thumbs//sct-sercom-1mT_icon.png" alt="1.25m Tall" width="25%" height="25%" />
 
-* MicroPad
-* OrbitalDock
+[top](#parts-catalog)
 
 ---
 
-[top](#Parts-Catalog)
+* 2.5m
+  * standard
+  * tall
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/docs/%40thumbs/sct-sercom-2m_icon.png" alt="2.5m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/docs/%40thumbs/sct-sercom-2mT_icon.png" alt="2.5m Tall" width="25%" height="25%" /> 
+
+[top](#parts-catalog)
+
+---
+
+* 3.75m
+  * standard
+  * tall
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/docs/%40thumbs//sct-sercom-3m_icon.png" alt="3.75m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ServiceCompartmentTubes/master/docs/%40thumbs//sct-sercom-3mT_icon.png" alt="3.75m Tall" width="25%" height="25%" />
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
