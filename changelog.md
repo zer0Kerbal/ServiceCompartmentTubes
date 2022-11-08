@@ -32,6 +32,7 @@
 * fully localized
 * Bingo Aerospace Agency
   * needs descriptive flavor text (bingo as in winchester - low or out of fuel)
+  * new flag
 
 ### Adoption by zer0Kerbal
 
