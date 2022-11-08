@@ -99,7 +99,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
     * [ModuleAnimateGeneric]
     * [FSanimateGeneric]
 * closes #11 - English <us-en.cfg>
-* closes #10 - Localization - Master
+* updates #10 - Localization - Master
 * closes #39 - Localization
 
 ### Create <ServiceCompartmentTubes.cfg>
@@ -190,7 +190,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * closes #3 - 1.3.99.0 Create Documentation
   * closes #4 - 1.3.99.0 Create Social Media
 
----                                             |
+---
 
 ## Version 1.3.0.0-release - `<Archival>`
 
