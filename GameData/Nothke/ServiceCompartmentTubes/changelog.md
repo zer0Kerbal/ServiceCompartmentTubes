@@ -25,7 +25,13 @@
   * 3.75m
   * 3.75m Tall
 * complete stock update
-* still supports Firespitter
+* still supports Firespitter (optional)
+* sizes _should_ be correct
+* nodes _should_ be correct
+* can search for 'sct' or 'bingo' in editor to show all parts
+* fully localized
+* Bingo Aerospace Agency
+  * needs descriptive flavor text (bingo as in winchester - low or out of fuel)
 
 ### Adoption by zer0Kerbal
 
