@@ -32,13 +32,63 @@
 * fully localized
 * Bingo Aerospace Agency
   * needs descriptive flavor text (bingo as in winchester - low or out of fuel)
+  * new flag
 
 ### Adoption by zer0Kerbal
 
-* Update License
-  * Updated License: CC BY-SA 4.0
-    * was: CC BY-NC-SA 4.0
-* closes #37 - Update License
+### Parts 1.3.99.0
+
+* New Parts (collaborative forum effort)
+  * <sct-sercom-1mT.cfg> v1.0.0.0
+  * <sct-sercom-2mT.cfg> v1.0.0.0
+  * <sct-sercom-3m.cfg> v1.0.0.0
+  * <sct-sercom-3mT.cfg> v1.0.0.0
+* Rename
+  * File names
+    * <SerCom1m.cfg> --> <sct-sercom-1m.cfg>
+    * <SerCom1mT.cfg> --> <sct-sercom-1mT.cfg>
+    * <SerCom2m.cfg> --> <sct-sercom-2m.cfg>
+    * <SerCom2mT.cfg> --> <sct-sercom-2mT.cfg>
+    * <SerCom3m.cfg> --> <sct-sercom-3m.cfg>
+    * <SerCom3mT.cfg> --> <sct-sercom-3mT.cfg>
+  * Part names
+    * SerCom1m --> sct-sercom-1m
+    * SerCom1mT --> sct-sercom-1mT
+    * SerCom2m --> sct-sercom-2m
+    * SerCom2mT --> sct-sercom-2mT
+    * SerCom3m --> sct-sercom-3m
+    * SerCom3mT --> sct-sercom-3mT
+  * Create
+    * [ghostparts.cfg]
+    * this patch which will go away
+  * closes #38 - ghostparts
+* Replace [FSanimateGeneric] with [ModuleAnimateGeneric]
+* Lint
+* Update category
+* Add stuff
+
+### Compatibility 1.3.99.0
+
+* [Firespitter.cfg] v1.0.0.0
+  * FSanimateGeneric
+
+### Localization
+
+* Create
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+  * closes #34 - Create Localization directory and contents
+* Localize
+  * Parts
+  * closes #28 - Part Localization
+  * Modules
+    * [ModuleAnimateGeneric]
+    * [FSanimateGeneric]
+* closes #11 - English <us-en.cfg>
+* closes #10 - Localization - Master
+* closes #39 - Localization
 
 ### Create <ServiceCompartmentTubes.cfg>
 
@@ -98,59 +148,12 @@
   * copy/convert to HeroLogo.jpg
 * closes #33 - Create HeroLogo.png
 
-### Compatibility 1.3.99.0
+### License
 
-* [Firespitter.cfg] v1.0.0.0
-  * FSanimateGeneric
-
-### Parts 1.3.99.0
-
-* New Parts (collaborative forum effort)
-  * <sct-sercom-1mT.cfg> v1.0.0.0
-  * <sct-sercom-2mT.cfg> v1.0.0.0
-  * <sct-sercom-3m.cfg> v1.0.0.0
-  * <sct-sercom-3mT.cfg> v1.0.0.0
-* Rename
-  * File names
-    * <SerCom1m.cfg> --> <sct-sercom-1m.cfg>
-    * <SerCom1mT.cfg> --> <sct-sercom-1mT.cfg>
-    * <SerCom2m.cfg> --> <sct-sercom-2m.cfg>
-    * <SerCom2mT.cfg> --> <sct-sercom-2mT.cfg>
-    * <SerCom3m.cfg> --> <sct-sercom-3m.cfg>
-    * <SerCom3mT.cfg> --> <sct-sercom-3mT.cfg>
-  * Part names
-    * SerCom1m --> sct-sercom-1m
-    * SerCom1mT --> sct-sercom-1mT
-    * SerCom2m --> sct-sercom-2m
-    * SerCom2mT --> sct-sercom-2mT
-    * SerCom3m --> sct-sercom-3m
-    * SerCom3mT --> sct-sercom-3mT
-  * Create
-    * [ghostparts.cfg]
-    * this patch which will go away
-  * closes #38 - ghostparts
-* Replace [FSanimateGeneric] with [ModuleAnimateGeneric]
-* Lint
-* Update category
-* Add stuff
-
-### Localization
-
-* Create
-  * Localization/
-    * <en-us.cfg>
-    * [readme.md] v2.1.2.0
-    * [quickstart.md] v1.0.1.1
-  * closes #34 - Create Localization directory and contents
-* Localize
-  * Parts
-  * closes #28 - Part Localization
-  * Modules
-    * [ModuleAnimateGeneric]
-    * [FSanimateGeneric]
-* closes #11 - English <us-en.cfg>
-* closes #10 - Localization - Master
-* closes #39 - Localization
+* Update License
+  * Updated License: CC BY-SA 4.0
+    * was: CC BY-NC-SA 4.0
+* closes #37 - Update License
 
 ### Create Thumbs
 
