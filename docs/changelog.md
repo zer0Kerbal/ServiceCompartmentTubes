@@ -78,6 +78,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Lint
 * Update category
 * Add stuff
+* closes #42 - Correct sizes and nodes
 
 ### Compatibility 1.3.99.0
 
