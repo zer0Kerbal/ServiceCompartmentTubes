@@ -79,3 +79,19 @@ Finalize your build and load up the resources, and
 [IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+
+ServiceCompartmentTubes
+
+/img/HERO-01.jpg
+/img/HERO-02.jpg
+/img/HERO-03.jpg
+/img/HERO-04.jpg
+/img/HERO-05.jpg
+/img/HERO-06.jpg
+/img/HERO-07.jpg
+/img/HERO-08.jpg
+/img/HERO-09.jpg
+/img/HERO-10.jpg
+/img/HERO-11.jpg
+/img/HERO-12.jpg
+/img/HERO-13.jpg
